@@ -1,0 +1,1 @@
+/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med7_moveit_config/ament_cmake_environment_hooks/local_setup.sh

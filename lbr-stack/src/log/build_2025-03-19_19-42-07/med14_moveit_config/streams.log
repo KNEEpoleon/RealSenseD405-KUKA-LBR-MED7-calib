@@ -1,0 +1,51 @@
+[0.015s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:/opt/ros/humble /usr/bin/cmake /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_ros2_stack/lbr_moveit_config/med14_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config
+[0.064s] -- The C compiler identification is GNU 11.4.0
+[0.117s] -- The CXX compiler identification is GNU 11.4.0
+[0.124s] -- Detecting C compiler ABI info
+[0.187s] -- Detecting C compiler ABI info - done
+[0.195s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.195s] -- Detecting C compile features
+[0.196s] -- Detecting C compile features - done
+[0.198s] -- Detecting CXX compiler ABI info
+[0.269s] -- Detecting CXX compiler ABI info - done
+[0.275s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.275s] -- Detecting CXX compile features
+[0.276s] -- Detecting CXX compile features - done
+[0.278s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.411s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.464s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.556s] -- Configuring done
+[0.559s] -- Generating done
+[0.560s] -- Build files have been written to: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config
+[0.566s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:/opt/ros/humble /usr/bin/cmake /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_ros2_stack/lbr_moveit_config/med14_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config
+[0.568s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:/opt/ros/humble /usr/bin/cmake --build /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config -- -j16 -l16
+[0.623s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:/opt/ros/humble /usr/bin/cmake --build /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config -- -j16 -l16
+[0.626s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:/opt/ros/humble /usr/bin/cmake --install /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config
+[0.636s] -- Install configuration: ""
+[0.637s] -- Execute custom install script
+[0.638s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/ament_index/resource_index/package_run_dependencies/med14_moveit_config
+[0.650s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/ament_index/resource_index/parent_prefix_path/med14_moveit_config
+[0.663s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/environment/ament_prefix_path.sh
+[0.675s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/environment/ament_prefix_path.dsv
+[0.687s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/environment/path.sh
+[0.701s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/environment/path.dsv
+[0.712s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/local_setup.bash
+[0.725s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/local_setup.sh
+[0.737s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/local_setup.zsh
+[0.749s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/local_setup.dsv
+[0.760s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/package.dsv
+[0.773s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/ament_index/resource_index/packages/med14_moveit_config
+[0.784s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/cmake/med14_moveit_configConfig.cmake
+[0.795s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/cmake/med14_moveit_configConfig-version.cmake
+[0.809s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/package.xml
+[0.822s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/launch/move_group.launch.py
+[0.832s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/launch/moveit_rviz.launch.py
+[0.842s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/launch/setup_assistant.launch.py
+[0.852s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/config/joint_limits.yaml
+[0.861s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/config/kinematics.yaml
+[0.871s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/config/med14.srdf
+[0.881s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/config/moveit.rviz
+[0.892s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/config/moveit_controllers.yaml
+[0.901s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/config/pilz_cartesian_limits.yaml
+[0.911s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/med14_moveit_config/share/med14_moveit_config/.setup_assistant
+[0.927s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:/opt/ros/humble /usr/bin/cmake --install /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/med14_moveit_config

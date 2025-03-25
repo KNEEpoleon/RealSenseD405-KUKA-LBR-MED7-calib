@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating handeye_ak.egg-info
+writing handeye_ak.egg-info/PKG-INFO
+writing dependency_links to handeye_ak.egg-info/dependency_links.txt
+writing entry points to handeye_ak.egg-info/entry_points.txt
+writing requirements to handeye_ak.egg-info/requires.txt
+writing top-level names to handeye_ak.egg-info/top_level.txt
+writing manifest file 'handeye_ak.egg-info/SOURCES.txt'
+reading manifest file 'handeye_ak.egg-info/SOURCES.txt'
+writing manifest file 'handeye_ak.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_ak/lib/python3.10/site-packages/handeye-ak.egg-link (link to .)
+Installing aruco script to /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_ak/lib/handeye_ak
+Installing eye2hand script to /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_ak/lib/handeye_ak
+Installing handeye script to /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_ak/lib/handeye_ak
+Installing robot script to /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_ak/lib/handeye_ak
+
+Installed /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/build/handeye_ak
+running symlink_data
+creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_ak/share/ament_index
+creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_ak/share/ament_index/resource_index
+creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_ak/share/ament_index/resource_index/packages
+symbolically linking /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/build/handeye_ak/resource/handeye_ak -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_ak/share/ament_index/resource_index/packages
+symbolically linking /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/build/handeye_ak/package.xml -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_ak/share/handeye_ak

@@ -1,0 +1,31 @@
+[0.016s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/iiwa14_moveit_config': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:/opt/ros/humble /usr/bin/cmake --build /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/iiwa14_moveit_config -- -j16 -l16
+[0.054s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/iiwa14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:/opt/ros/humble /usr/bin/cmake --build /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/iiwa14_moveit_config -- -j16 -l16
+[0.057s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/iiwa14_moveit_config': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:/opt/ros/humble /usr/bin/cmake --install /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/iiwa14_moveit_config
+[0.064s] -- Install configuration: ""
+[0.065s] -- Execute custom install script
+[0.065s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/ament_index/resource_index/package_run_dependencies/iiwa14_moveit_config
+[0.065s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/ament_index/resource_index/parent_prefix_path/iiwa14_moveit_config
+[0.066s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/ament_prefix_path.sh
+[0.066s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/ament_prefix_path.dsv
+[0.066s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/path.sh
+[0.066s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/path.dsv
+[0.066s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.bash
+[0.066s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.sh
+[0.067s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.zsh
+[0.067s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.dsv
+[0.067s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/package.dsv
+[0.076s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/ament_index/resource_index/packages/iiwa14_moveit_config
+[0.076s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/cmake/iiwa14_moveit_configConfig.cmake
+[0.077s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/cmake/iiwa14_moveit_configConfig-version.cmake
+[0.077s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/package.xml
+[0.077s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/move_group.launch.py
+[0.078s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/moveit_rviz.launch.py
+[0.079s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/setup_assistant.launch.py
+[0.079s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/iiwa14.srdf
+[0.080s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/joint_limits.yaml
+[0.080s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/kinematics.yaml
+[0.080s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/moveit.rviz
+[0.080s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/moveit_controllers.yaml
+[0.080s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/pilz_cartesian_limits.yaml
+[0.080s] -- Up-to-date symlink: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/iiwa14_moveit_config/share/iiwa14_moveit_config/.setup_assistant
+[0.090s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/iiwa14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description:/opt/ros/humble /usr/bin/cmake --install /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/iiwa14_moveit_config

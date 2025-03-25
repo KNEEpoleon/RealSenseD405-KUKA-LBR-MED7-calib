@@ -1,0 +1,10 @@
+{
+  "package_name": "lbr_fri_idl",
+  "non_idl_tuples": [
+    "/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_idl:msg/LBRCommand.msg",
+    "/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_idl:msg/LBRJointPositionCommand.msg",
+    "/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_idl:msg/LBRState.msg",
+    "/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_idl:msg/LBRTorqueCommand.msg",
+    "/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_idl:msg/LBRWrenchCommand.msg"
+  ]
+}

@@ -1,0 +1,21 @@
+[1.281s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/handeye_realsense': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/build --no-deps symlink_data
+[1.522s] running develop
+[1.668s] running egg_info
+[1.668s] writing handeye_realsense.egg-info/PKG-INFO
+[1.668s] writing dependency_links to handeye_realsense.egg-info/dependency_links.txt
+[1.669s] writing entry points to handeye_realsense.egg-info/entry_points.txt
+[1.669s] writing requirements to handeye_realsense.egg-info/requires.txt
+[1.669s] writing top-level names to handeye_realsense.egg-info/top_level.txt
+[1.671s] reading manifest file 'handeye_realsense.egg-info/SOURCES.txt'
+[1.672s] writing manifest file 'handeye_realsense.egg-info/SOURCES.txt'
+[1.673s] running build_ext
+[1.673s] Creating /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye-realsense.egg-link (link to .)
+[1.673s] Installing aruco script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[1.673s] Installing eye2hand script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[1.674s] Installing handeye script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[1.674s] Installing joint_positions script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[1.674s] Installing robot script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[1.674s] 
+[1.674s] Installed /home/harry/cmu/capstone/calibration_ws/build/handeye_realsense
+[1.674s] running symlink_data
+[1.722s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/handeye_realsense' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/build --no-deps symlink_data

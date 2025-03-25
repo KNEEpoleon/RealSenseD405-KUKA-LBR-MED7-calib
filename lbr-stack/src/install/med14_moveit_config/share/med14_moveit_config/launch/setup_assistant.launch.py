@@ -1,0 +1,1 @@
+/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_ros2_stack/lbr_moveit_config/med14_moveit_config/launch/setup_assistant.launch.py

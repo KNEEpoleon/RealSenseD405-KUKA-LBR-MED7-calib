@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating camera_calibration.egg-info
+writing camera_calibration.egg-info/PKG-INFO
+writing dependency_links to camera_calibration.egg-info/dependency_links.txt
+writing entry points to camera_calibration.egg-info/entry_points.txt
+writing requirements to camera_calibration.egg-info/requires.txt
+writing top-level names to camera_calibration.egg-info/top_level.txt
+writing manifest file 'camera_calibration.egg-info/SOURCES.txt'
+reading manifest file 'camera_calibration.egg-info/SOURCES.txt'
+writing manifest file 'camera_calibration.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/camera_calibration/lib/python3.10/site-packages/camera-calibration.egg-link (link to .)
+
+Installed /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/build/camera_calibration
+running symlink_data
+creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/camera_calibration/share/ament_index
+creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/camera_calibration/share/ament_index/resource_index
+creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/camera_calibration/share/ament_index/resource_index/packages
+symbolically linking /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/build/camera_calibration/resource/camera_calibration -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/camera_calibration/share/ament_index/resource_index/packages
+symbolically linking /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/build/camera_calibration/package.xml -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/camera_calibration/share/camera_calibration

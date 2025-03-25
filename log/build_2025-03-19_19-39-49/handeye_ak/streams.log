@@ -1,0 +1,20 @@
+[1.293s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/handeye_ak': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build --no-deps symlink_data
+[1.529s] running develop
+[1.674s] running egg_info
+[1.674s] writing handeye_ak.egg-info/PKG-INFO
+[1.675s] writing dependency_links to handeye_ak.egg-info/dependency_links.txt
+[1.675s] writing entry points to handeye_ak.egg-info/entry_points.txt
+[1.675s] writing requirements to handeye_ak.egg-info/requires.txt
+[1.675s] writing top-level names to handeye_ak.egg-info/top_level.txt
+[1.677s] reading manifest file 'handeye_ak.egg-info/SOURCES.txt'
+[1.677s] writing manifest file 'handeye_ak.egg-info/SOURCES.txt'
+[1.679s] running build_ext
+[1.679s] Creating /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye-ak.egg-link (link to .)
+[1.679s] Installing aruco script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[1.680s] Installing eye2hand script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[1.680s] Installing handeye script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[1.680s] Installing robot script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[1.680s] 
+[1.680s] Installed /home/harry/cmu/capstone/calibration_ws/build/handeye_ak
+[1.680s] running symlink_data
+[1.734s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/handeye_ak' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build --no-deps symlink_data

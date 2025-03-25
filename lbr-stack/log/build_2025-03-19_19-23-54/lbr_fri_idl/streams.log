@@ -1,0 +1,46 @@
+[0.008s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_fri_idl': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble /usr/bin/cmake /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_idl -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_fri_idl
+[0.018s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.127s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.133s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[0.152s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.154s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.158s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.165s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.174s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.182s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.267s] [31mCMake Error at /opt/ros/humble/share/rosidl_adapter/cmake/rosidl_adapt_interfaces.cmake:59 (message):
+[0.267s]   execute_process(/home/harry/miniconda3/bin/python3 -m rosidl_adapter
+[0.267s]   --package-name lbr_fri_idl --arguments-file
+[0.267s]   /home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_fri_idl/rosidl_adapter__arguments__lbr_fri_idl.json
+[0.267s]   --output-dir
+[0.267s]   /home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_fri_idl/rosidl_adapter/lbr_fri_idl
+[0.268s]   --output-file
+[0.268s]   /home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_fri_idl/rosidl_adapter/lbr_fri_idl.idls)
+[0.268s]   returned error code 1:
+[0.268s] 
+[0.268s]   Traceback (most recent call last):
+[0.268s] 
+[0.268s]     File "<frozen runpy>", line 198, in _run_module_as_main
+[0.268s]     File "<frozen runpy>", line 88, in _run_code
+[0.268s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/__main__.py", line 19, in <module>
+[0.268s]       sys.exit(main())
+[0.268s]                ^^^^^^
+[0.268s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/main.py", line 53, in main
+[0.268s]       abs_idl_file = convert_to_idl(
+[0.268s]                      ^^^^^^^^^^^^^^^
+[0.268s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/__init__.py", line 18, in convert_to_idl
+[0.268s]       from rosidl_adapter.msg import convert_msg_to_idl
+[0.268s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/msg/__init__.py", line 16, in <module>
+[0.268s]       from rosidl_adapter.resource import expand_template
+[0.268s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/resource/__init__.py", line 19, in <module>
+[0.268s]       import em
+[0.268s] 
+[0.268s]   ModuleNotFoundError: No module named 'em'
+[0.268s] 
+[0.268s] Call Stack (most recent call first):
+[0.269s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:130 (rosidl_adapt_interfaces)
+[0.269s]   CMakeLists.txt:22 (rosidl_generate_interfaces)
+[0.269s] 
+[0.269s] [0m
+[0.269s] -- Configuring incomplete, errors occurred!
+[0.269s] See also "/home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_fri_idl/CMakeFiles/CMakeOutput.log".

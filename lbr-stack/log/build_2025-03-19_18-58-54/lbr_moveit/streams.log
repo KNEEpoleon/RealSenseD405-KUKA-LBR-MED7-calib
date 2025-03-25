@@ -1,0 +1,27 @@
+[0.574s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_moveit': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_moveit/build --no-deps symlink_data
+[0.781s] running develop
+[0.908s] running egg_info
+[0.908s] creating lbr_moveit.egg-info
+[0.908s] writing lbr_moveit.egg-info/PKG-INFO
+[0.908s] writing dependency_links to lbr_moveit.egg-info/dependency_links.txt
+[0.908s] writing entry points to lbr_moveit.egg-info/entry_points.txt
+[0.909s] writing requirements to lbr_moveit.egg-info/requires.txt
+[0.909s] writing top-level names to lbr_moveit.egg-info/top_level.txt
+[0.909s] writing manifest file 'lbr_moveit.egg-info/SOURCES.txt'
+[0.910s] reading manifest file 'lbr_moveit.egg-info/SOURCES.txt'
+[0.911s] writing manifest file 'lbr_moveit.egg-info/SOURCES.txt'
+[0.913s] running build_ext
+[0.913s] Creating /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/lib/python3.10/site-packages/lbr-moveit.egg-link (link to .)
+[0.913s] Installing forward_keyboard script to /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/lib/lbr_moveit
+[0.913s] 
+[0.913s] Installed /home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_moveit
+[0.913s] running symlink_data
+[0.913s] creating /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/share/ament_index
+[0.913s] creating /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/share/ament_index/resource_index
+[0.914s] creating /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/share/ament_index/resource_index/packages
+[0.914s] symbolically linking /home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_moveit/resource/lbr_moveit -> /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/share/ament_index/resource_index/packages
+[0.914s] symbolically linking /home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_moveit/package.xml -> /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/share/lbr_moveit
+[0.914s] creating /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/share/lbr_moveit/config
+[0.914s] symbolically linking /home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_moveit/config/forward_keyboard.yaml -> /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/share/lbr_moveit/config
+[0.914s] creating /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/share/lbr_moveit/launch
+[0.914s] symbolically linking /home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_moveit/launch/keyboard_driver.launch.py -> /home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit/share/lbr_moveit/launch

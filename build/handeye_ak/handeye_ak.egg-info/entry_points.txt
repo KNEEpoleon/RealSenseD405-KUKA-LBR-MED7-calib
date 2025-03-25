@@ -1,0 +1,6 @@
+[console_scripts]
+aruco = handeye_ak.aruco:main
+eye2hand = handeye_ak.publish_eye2hand:main
+handeye = handeye_ak.calibrate_handeye:main
+robot = handeye_ak.robot_state:main
+

@@ -1,0 +1,123 @@
+[0.016s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_ros2_stack/lbr_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description
+[0.220s] -- The C compiler identification is GNU 11.4.0
+[0.220s] -- The CXX compiler identification is GNU 11.4.0
+[0.220s] -- Detecting C compiler ABI info
+[0.220s] -- Detecting C compiler ABI info - done
+[0.220s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.220s] -- Detecting C compile features
+[0.220s] -- Detecting C compile features - done
+[0.220s] -- Detecting CXX compiler ABI info
+[0.250s] -- Detecting CXX compiler ABI info - done
+[0.255s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.256s] -- Detecting CXX compile features
+[0.256s] -- Detecting CXX compile features - done
+[0.258s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.433s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.513s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.539s] -- Found ament_cmake_pytest: 1.3.11 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[0.856s] -- Configuring done
+[0.858s] -- Generating done
+[0.860s] -- Build files have been written to: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description
+[0.866s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_ros2_stack/lbr_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description
+[0.867s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description -- -j16 -l16
+[0.902s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description -- -j16 -l16
+[0.903s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description
+[0.909s] -- Install configuration: ""
+[0.910s] -- Execute custom install script
+[0.910s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/gazebo/lbr_gazebo.xacro
+[0.920s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_0.stl
+[0.928s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_1.stl
+[0.938s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_2.stl
+[0.946s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_3.stl
+[0.954s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_4.stl
+[0.963s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_5.stl
+[0.970s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_6.stl
+[0.978s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_7.stl
+[0.987s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_0.dae
+[0.995s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_1.dae
+[1.003s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_2.dae
+[1.011s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_3.dae
+[1.021s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_4.dae
+[1.029s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_5.dae
+[1.037s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_6.dae
+[1.045s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_7.dae
+[1.053s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_0.stl
+[1.061s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_1.stl
+[1.070s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_2.stl
+[1.077s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_3.stl
+[1.085s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_4.stl
+[1.093s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_5.stl
+[1.101s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_6.stl
+[1.109s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_7.stl
+[1.117s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_0.dae
+[1.125s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_1.dae
+[1.134s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_2.dae
+[1.143s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_3.dae
+[1.151s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_4.dae
+[1.158s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_5.dae
+[1.165s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_6.dae
+[1.173s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_7.dae
+[1.180s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/collision/link_0.stl
+[1.188s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/collision/link_1.stl
+[1.196s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/collision/link_2.stl
+[1.203s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/collision/link_3.stl
+[1.211s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/collision/link_4.stl
+[1.218s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/collision/link_5.stl
+[1.226s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/collision/link_6.stl
+[1.235s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/collision/link_7.stl
+[1.244s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/visual/link_0.dae
+[1.252s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/visual/link_1.dae
+[1.260s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/visual/link_2.dae
+[1.268s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/visual/link_3.dae
+[1.276s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/visual/link_4.dae
+[1.283s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/visual/link_5.dae
+[1.291s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/visual/link_6.dae
+[1.299s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med14/visual/link_7.dae
+[1.308s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/collision/link_0.stl
+[1.316s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/collision/link_1.stl
+[1.324s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/collision/link_2.stl
+[1.332s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/collision/link_3.stl
+[1.340s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/collision/link_4.stl
+[1.349s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/collision/link_5.stl
+[1.357s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/collision/link_6.stl
+[1.365s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/collision/link_7.stl
+[1.373s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/visual/link_0.dae
+[1.381s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/visual/link_1.dae
+[1.389s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/visual/link_2.dae
+[1.397s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/visual/link_3.dae
+[1.405s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/visual/link_4.dae
+[1.413s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/visual/link_5.dae
+[1.421s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/visual/link_6.dae
+[1.430s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/meshes/med7/visual/link_7.dae
+[1.438s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/ros2_control/lbr_controllers.yaml
+[1.447s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/ros2_control/lbr_system_config.yaml
+[1.455s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/ros2_control/lbr_system_interface.xacro
+[1.466s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/iiwa14/iiwa14.xacro
+[1.474s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/iiwa14/iiwa14_description.xacro
+[1.482s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/iiwa14/joint_limits.yaml
+[1.491s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/iiwa7/iiwa7.xacro
+[1.499s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/iiwa7/iiwa7_description.xacro
+[1.508s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/iiwa7/joint_limits.yaml
+[1.517s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/med14/joint_limits.yaml
+[1.524s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/med14/med14.xacro
+[1.534s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/med14/med14_description.xacro
+[1.542s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/med7/joint_limits.yaml
+[1.550s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/med7/med7.xacro
+[1.557s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/urdf/med7/med7_description.xacro
+[1.565s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/environment/lbr_description.dsv
+[1.573s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/ament_index/resource_index/package_run_dependencies/lbr_description
+[1.581s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/ament_index/resource_index/parent_prefix_path/lbr_description
+[1.589s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/environment/ament_prefix_path.sh
+[1.596s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/environment/ament_prefix_path.dsv
+[1.605s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/environment/path.sh
+[1.613s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/environment/path.dsv
+[1.620s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/local_setup.bash
+[1.629s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/local_setup.sh
+[1.638s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/local_setup.zsh
+[1.647s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/local_setup.dsv
+[1.654s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/package.dsv
+[1.663s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/ament_index/resource_index/packages/lbr_description
+[1.671s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/cmake/lbr_descriptionConfig.cmake
+[1.679s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/cmake/lbr_descriptionConfig-version.cmake
+[1.687s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/install/lbr_description/share/lbr_description/package.xml
+[1.697s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/build/lbr_description

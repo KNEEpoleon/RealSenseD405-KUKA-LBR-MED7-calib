@@ -1,0 +1,51 @@
+[0.017s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble /usr/bin/cmake /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_ros2_stack/lbr_moveit_config/iiwa14_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config
+[0.067s] -- The C compiler identification is GNU 11.4.0
+[0.122s] -- The CXX compiler identification is GNU 11.4.0
+[0.128s] -- Detecting C compiler ABI info
+[0.193s] -- Detecting C compiler ABI info - done
+[0.199s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.199s] -- Detecting C compile features
+[0.199s] -- Detecting C compile features - done
+[0.202s] -- Detecting CXX compiler ABI info
+[0.275s] -- Detecting CXX compiler ABI info - done
+[0.281s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.281s] -- Detecting CXX compile features
+[0.281s] -- Detecting CXX compile features - done
+[0.284s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.415s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.470s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.557s] -- Configuring done
+[0.562s] -- Generating done
+[0.563s] -- Build files have been written to: /home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config
+[0.569s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble /usr/bin/cmake /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_ros2_stack/lbr_moveit_config/iiwa14_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config
+[0.571s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble /usr/bin/cmake --build /home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config -- -j16 -l16
+[0.609s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble /usr/bin/cmake --build /home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config -- -j16 -l16
+[0.610s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble /usr/bin/cmake --install /home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config
+[0.616s] -- Install configuration: ""
+[0.616s] -- Execute custom install script
+[0.616s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/ament_index/resource_index/package_run_dependencies/iiwa14_moveit_config
+[0.625s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/ament_index/resource_index/parent_prefix_path/iiwa14_moveit_config
+[0.634s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/ament_prefix_path.sh
+[0.643s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/ament_prefix_path.dsv
+[0.652s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/path.sh
+[0.663s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/path.dsv
+[0.670s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.bash
+[0.679s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.sh
+[0.688s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.zsh
+[0.697s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.dsv
+[0.706s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/package.dsv
+[0.715s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/ament_index/resource_index/packages/iiwa14_moveit_config
+[0.724s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/cmake/iiwa14_moveit_configConfig.cmake
+[0.734s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/cmake/iiwa14_moveit_configConfig-version.cmake
+[0.742s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/package.xml
+[0.751s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/move_group.launch.py
+[0.760s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/moveit_rviz.launch.py
+[0.769s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/setup_assistant.launch.py
+[0.777s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/iiwa14.srdf
+[0.785s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/joint_limits.yaml
+[0.794s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/kinematics.yaml
+[0.803s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/moveit.rviz
+[0.812s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/moveit_controllers.yaml
+[0.820s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/pilz_cartesian_limits.yaml
+[0.830s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/.setup_assistant
+[0.841s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble /usr/bin/cmake --install /home/harry/cmu/capstone/calibration_ws/build/iiwa14_moveit_config

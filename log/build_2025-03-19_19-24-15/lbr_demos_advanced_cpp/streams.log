@@ -1,0 +1,82 @@
+[0.012s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble LD_LIBRARY_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2/lib:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/lib:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_advanced_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp
+[0.063s] -- The C compiler identification is GNU 11.4.0
+[0.111s] -- The CXX compiler identification is GNU 11.4.0
+[0.117s] -- Detecting C compiler ABI info
+[0.178s] -- Detecting C compiler ABI info - done
+[0.183s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.184s] -- Detecting C compile features
+[0.184s] -- Detecting C compile features - done
+[0.186s] -- Detecting CXX compiler ABI info
+[0.258s] -- Detecting CXX compiler ABI info - done
+[0.263s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.263s] -- Detecting CXX compile features
+[0.264s] -- Detecting CXX compile features - done
+[0.266s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.389s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.438s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.473s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.509s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.515s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.522s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.533s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.549s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.581s] -- Found kdl_parser: 2.6.4 (/opt/ros/humble/share/kdl_parser/cmake)
+[0.595s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.596s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[0.596s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[0.598s] -- Found lbr_fri_idl: 1.5.0 (/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/share/lbr_fri_idl/cmake)
+[0.607s] -- Found lbr_fri_ros2: 2.2.0 (/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/cmake)
+[0.647s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.650s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.739s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.768s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.809s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.818s] -- Looking for pthread.h
+[0.885s] -- Looking for pthread.h - found
+[0.885s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.952s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.953s] -- Found Threads: TRUE  
+[1.020s] -- Found rclcpp_components: 16.0.11 (/opt/ros/humble/share/rclcpp_components/cmake)
+[1.100s] -- Configuring done
+[1.116s] -- Generating done
+[1.122s] -- Build files have been written to: /home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp
+[1.131s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble LD_LIBRARY_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2/lib:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/lib:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_advanced_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp
+[1.132s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble LD_LIBRARY_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2/lib:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/lib:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp -- -j16 -l16
+[1.182s] [ 25%] [32mBuilding CXX object CMakeFiles/pose_control.dir/rclcpp_components/node_main_pose_control.cpp.o[0m
+[1.182s] [ 25%] [32mBuilding CXX object CMakeFiles/pose_planning.dir/rclcpp_components/node_main_pose_planning.cpp.o[0m
+[1.182s] [ 37%] [32mBuilding CXX object CMakeFiles/pose_planning_component.dir/src/pose_planning_node.cpp.o[0m
+[1.182s] [ 50%] [32mBuilding CXX object CMakeFiles/pose_control_component.dir/src/pose_control_node.cpp.o[0m
+[5.004s] [ 62%] [32m[1mLinking CXX executable pose_planning[0m
+[5.243s] [ 62%] Built target pose_planning
+[6.104s] [ 75%] [32m[1mLinking CXX executable pose_control[0m
+[6.247s] [ 75%] Built target pose_control
+[13.506s] [ 87%] [32m[1mLinking CXX shared library libpose_planning_component.so[0m
+[13.697s] [ 87%] Built target pose_planning_component
+[17.796s] [100%] [32m[1mLinking CXX shared library libpose_control_component.so[0m
+[17.970s] [100%] Built target pose_control_component
+[17.982s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble LD_LIBRARY_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2/lib:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/lib:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp -- -j16 -l16
+[17.984s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble LD_LIBRARY_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2/lib:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/lib:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp
+[17.992s] -- Install configuration: "Release"
+[17.993s] -- Execute custom install script
+[17.993s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/lib/lbr_demos_advanced_cpp/pose_planning
+[18.004s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/lib/lbr_demos_advanced_cpp/pose_control
+[18.015s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/lib/libpose_planning_component.so
+[18.025s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/lib/libpose_control_component.so
+[18.035s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/config/lbr_system_config.yaml
+[18.049s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/ament_index/resource_index/package_run_dependencies/lbr_demos_advanced_cpp
+[18.061s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/ament_index/resource_index/parent_prefix_path/lbr_demos_advanced_cpp
+[18.073s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/environment/ament_prefix_path.sh
+[18.083s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/environment/ament_prefix_path.dsv
+[18.095s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/environment/path.sh
+[18.106s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/environment/path.dsv
+[18.116s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/local_setup.bash
+[18.126s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/local_setup.sh
+[18.136s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/local_setup.zsh
+[18.145s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/local_setup.dsv
+[18.155s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/package.dsv
+[18.165s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/ament_index/resource_index/packages/lbr_demos_advanced_cpp
+[18.175s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/ament_index/resource_index/rclcpp_components/lbr_demos_advanced_cpp
+[18.185s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/cmake/lbr_demos_advanced_cppConfig.cmake
+[18.195s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/cmake/lbr_demos_advanced_cppConfig-version.cmake
+[18.205s] -- Symlinking: /home/harry/cmu/capstone/calibration_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/package.xml
+[18.217s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp' returned '0': AMENT_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl:/home/harry/cmu/capstone/calibration_ws/install/lbr_description:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/fri_client_sdk:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/install/handeye_realsense:/opt/ros/humble LD_LIBRARY_PATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_ros2/lib:/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/lib:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/harry/cmu/capstone/calibration_ws/install/fri_client_sdk/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/harry/cmu/capstone/calibration_ws/build/lbr_demos_advanced_cpp

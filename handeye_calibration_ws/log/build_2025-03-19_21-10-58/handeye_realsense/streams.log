@@ -1,0 +1,56 @@
+[0.484s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/handeye_calibration_ros2/handeye_realsense': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/handeye_realsense build --build-base /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build install --record /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/install.log --single-version-externally-managed install_data
+[0.665s] running egg_info
+[0.665s] creating ../../../build/handeye_realsense/handeye_realsense.egg-info
+[0.665s] writing ../../../build/handeye_realsense/handeye_realsense.egg-info/PKG-INFO
+[0.665s] writing dependency_links to ../../../build/handeye_realsense/handeye_realsense.egg-info/dependency_links.txt
+[0.666s] writing entry points to ../../../build/handeye_realsense/handeye_realsense.egg-info/entry_points.txt
+[0.666s] writing requirements to ../../../build/handeye_realsense/handeye_realsense.egg-info/requires.txt
+[0.666s] writing top-level names to ../../../build/handeye_realsense/handeye_realsense.egg-info/top_level.txt
+[0.666s] writing manifest file '../../../build/handeye_realsense/handeye_realsense.egg-info/SOURCES.txt'
+[0.669s] reading manifest file '../../../build/handeye_realsense/handeye_realsense.egg-info/SOURCES.txt'
+[0.669s] adding license file 'LICENSE'
+[0.670s] writing manifest file '../../../build/handeye_realsense/handeye_realsense.egg-info/SOURCES.txt'
+[0.670s] running build
+[0.670s] running build_py
+[0.670s] creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build
+[0.670s] creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib
+[0.670s] creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense
+[0.670s] copying handeye_realsense/joint_positions.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense
+[0.670s] copying handeye_realsense/handeye_estimation.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense
+[0.670s] copying handeye_realsense/aruco_estimation.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense
+[0.671s] copying handeye_realsense/__init__.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense
+[0.671s] copying handeye_realsense/robot_state_estimation.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense
+[0.671s] copying handeye_realsense/publish_eye2hand.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense
+[0.671s] running install
+[0.671s] running install_lib
+[0.672s] creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense
+[0.673s] copying /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense/joint_positions.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense
+[0.673s] copying /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense/handeye_estimation.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense
+[0.673s] copying /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense/aruco_estimation.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense
+[0.673s] copying /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense/__init__.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense
+[0.673s] copying /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense/robot_state_estimation.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense
+[0.673s] copying /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build/lib/handeye_realsense/publish_eye2hand.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense
+[0.673s] byte-compiling /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense/joint_positions.py to joint_positions.cpython-310.pyc
+[0.674s] byte-compiling /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense/handeye_estimation.py to handeye_estimation.cpython-310.pyc
+[0.675s] byte-compiling /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense/aruco_estimation.py to aruco_estimation.cpython-310.pyc
+[0.676s] byte-compiling /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense/__init__.py to __init__.cpython-310.pyc
+[0.676s] byte-compiling /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense/robot_state_estimation.py to robot_state_estimation.cpython-310.pyc
+[0.676s] byte-compiling /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense/publish_eye2hand.py to publish_eye2hand.cpython-310.pyc
+[0.677s] running install_data
+[0.677s] creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/share/ament_index
+[0.677s] creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/share/ament_index/resource_index
+[0.677s] creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/share/ament_index/resource_index/packages
+[0.677s] copying resource/handeye_realsense -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/share/ament_index/resource_index/packages
+[0.677s] copying package.xml -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/share/handeye_realsense
+[0.677s] creating /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/share/handeye_realsense/launch
+[0.678s] copying launch/taking_sample_launch.py -> /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/share/handeye_realsense/launch
+[0.678s] running install_egg_info
+[0.679s] Copying ../../../build/handeye_realsense/handeye_realsense.egg-info to /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense-0.0.0-py3.10.egg-info
+[0.680s] running install_scripts
+[0.694s] Installing aruco script to /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[0.694s] Installing eye2hand script to /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[0.694s] Installing handeye script to /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[0.695s] Installing joint_positions script to /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[0.695s] Installing robot script to /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[0.695s] writing list of installed files to '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/install.log'
+[0.715s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/handeye_calibration_ros2/handeye_realsense' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/install/handeye_realsense/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/handeye_realsense build --build-base /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/build install --record /home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/build/handeye_realsense/install.log --single-version-externally-managed install_data

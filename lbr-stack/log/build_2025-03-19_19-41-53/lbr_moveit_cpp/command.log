@@ -1,0 +1,1 @@
+Invoking command in '/home/harry/cmu/capstone/calibration_ws/lbr-stack/build/lbr_moveit_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harry/cmu/capstone/calibration_ws/lbr-stack/src/lbr_fri_ros2_stack/lbr_demos/lbr_moveit_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/cmu/capstone/calibration_ws/lbr-stack/install/lbr_moveit_cpp

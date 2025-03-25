@@ -1,0 +1,9 @@
+source;share/handeye_ak/hook/pythonpath.ps1
+source;share/handeye_ak/hook/pythonpath.dsv
+source;share/handeye_ak/hook/pythonpath.sh
+source;share/handeye_ak/hook/ament_prefix_path.ps1
+source;share/handeye_ak/hook/ament_prefix_path.dsv
+source;share/handeye_ak/hook/ament_prefix_path.sh
+source;../../build/handeye_ak/share/handeye_ak/hook/pythonpath_develop.ps1
+source;../../build/handeye_ak/share/handeye_ak/hook/pythonpath_develop.dsv
+source;../../build/handeye_ak/share/handeye_ak/hook/pythonpath_develop.sh
