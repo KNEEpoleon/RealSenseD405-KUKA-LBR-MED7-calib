@@ -4,6 +4,3 @@ source;share/handeye_realsense/hook/pythonpath.sh
 source;share/handeye_realsense/hook/ament_prefix_path.ps1
 source;share/handeye_realsense/hook/ament_prefix_path.dsv
 source;share/handeye_realsense/hook/ament_prefix_path.sh
-source;../../build/handeye_realsense/share/handeye_realsense/hook/pythonpath_develop.ps1
-source;../../build/handeye_realsense/share/handeye_realsense/hook/pythonpath_develop.dsv
-source;../../build/handeye_realsense/share/handeye_realsense/hook/pythonpath_develop.sh

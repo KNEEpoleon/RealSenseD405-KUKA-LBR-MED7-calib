@@ -1,0 +1,67 @@
+[1.489s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/handeye_ak': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build
+[1.792s] running develop
+[2.058s] Removing /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye-ak.egg-link (link to .)
+[2.109s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/handeye_ak' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build
+[2.111s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/handeye_calibration_ros2/handeye_ak': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/handeye_ak build --build-base /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build install --record /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/install.log --single-version-externally-managed install_data --force
+[2.403s] running egg_info
+[2.404s] writing ../../../../build/handeye_ak/handeye_ak.egg-info/PKG-INFO
+[2.404s] writing dependency_links to ../../../../build/handeye_ak/handeye_ak.egg-info/dependency_links.txt
+[2.404s] writing entry points to ../../../../build/handeye_ak/handeye_ak.egg-info/entry_points.txt
+[2.404s] writing requirements to ../../../../build/handeye_ak/handeye_ak.egg-info/requires.txt
+[2.404s] writing top-level names to ../../../../build/handeye_ak/handeye_ak.egg-info/top_level.txt
+[2.406s] reading manifest file '../../../../build/handeye_ak/handeye_ak.egg-info/SOURCES.txt'
+[2.406s] adding license file 'LICENSE'
+[2.407s] writing manifest file '../../../../build/handeye_ak/handeye_ak.egg-info/SOURCES.txt'
+[2.407s] running build
+[2.407s] running build_py
+[2.407s] creating /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build
+[2.407s] creating /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib
+[2.407s] creating /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.407s] copying handeye_ak/basic_image_subscriber.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.407s] copying handeye_ak/capture.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.408s] copying handeye_ak/aruco.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.408s] copying handeye_ak/capture2.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.408s] copying handeye_ak/basic_image_publisher.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.408s] copying handeye_ak/robot_state.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.408s] copying handeye_ak/__init__.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.408s] copying handeye_ak/calibrate_handeye.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.408s] copying handeye_ak/publish_eye2hand.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.408s] copying handeye_ak/camera_calibration.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.408s] copying handeye_ak/camera_viewer_azure_kinect.py -> /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak
+[2.409s] running install
+[2.409s] running install_lib
+[2.410s] creating /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.410s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/basic_image_subscriber.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.410s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/capture.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.410s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/aruco.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.410s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/capture2.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.410s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/basic_image_publisher.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.410s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/robot_state.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.410s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/__init__.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.411s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/calibrate_handeye.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.411s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/publish_eye2hand.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.411s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/camera_calibration.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.411s] copying /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build/lib/handeye_ak/camera_viewer_azure_kinect.py -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak
+[2.411s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/basic_image_subscriber.py to basic_image_subscriber.cpython-310.pyc
+[2.412s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/capture.py to capture.cpython-310.pyc
+[2.412s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/aruco.py to aruco.cpython-310.pyc
+[2.413s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/capture2.py to capture2.cpython-310.pyc
+[2.414s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/basic_image_publisher.py to basic_image_publisher.cpython-310.pyc
+[2.414s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/robot_state.py to robot_state.cpython-310.pyc
+[2.415s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/__init__.py to __init__.cpython-310.pyc
+[2.415s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/calibrate_handeye.py to calibrate_handeye.cpython-310.pyc
+[2.416s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/publish_eye2hand.py to publish_eye2hand.cpython-310.pyc
+[2.417s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/camera_calibration.py to camera_calibration.cpython-310.pyc
+[2.418s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak/camera_viewer_azure_kinect.py to camera_viewer_azure_kinect.cpython-310.pyc
+[2.418s] running install_data
+[2.418s] copying resource/handeye_ak -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/share/ament_index/resource_index/packages
+[2.418s] copying package.xml -> /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/share/handeye_ak
+[2.418s] running install_egg_info
+[2.421s] Copying ../../../../build/handeye_ak/handeye_ak.egg-info to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak-0.0.0-py3.10.egg-info
+[2.422s] running install_scripts
+[2.446s] Installing aruco script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[2.446s] Installing eye2hand script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[2.446s] Installing handeye script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[2.446s] Installing robot script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[2.446s] writing list of installed files to '/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/install.log'
+[2.477s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/handeye_calibration_ros2/handeye_ak' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/handeye_ak build --build-base /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build install --record /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/install.log --single-version-externally-managed install_data --force

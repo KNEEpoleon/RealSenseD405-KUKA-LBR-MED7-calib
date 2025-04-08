@@ -1,0 +1,25 @@
+[1.544s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/handeye_calibration_ros2/handeye_ak': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/handeye_ak build --build-base /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build install --record /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/install.log --single-version-externally-managed install_data
+[1.807s] running egg_info
+[1.807s] writing ../../../../build/handeye_ak/handeye_ak.egg-info/PKG-INFO
+[1.808s] writing dependency_links to ../../../../build/handeye_ak/handeye_ak.egg-info/dependency_links.txt
+[1.808s] writing entry points to ../../../../build/handeye_ak/handeye_ak.egg-info/entry_points.txt
+[1.808s] writing requirements to ../../../../build/handeye_ak/handeye_ak.egg-info/requires.txt
+[1.808s] writing top-level names to ../../../../build/handeye_ak/handeye_ak.egg-info/top_level.txt
+[1.810s] reading manifest file '../../../../build/handeye_ak/handeye_ak.egg-info/SOURCES.txt'
+[1.811s] adding license file 'LICENSE'
+[1.812s] writing manifest file '../../../../build/handeye_ak/handeye_ak.egg-info/SOURCES.txt'
+[1.812s] running build
+[1.812s] running build_py
+[1.813s] running install
+[1.813s] running install_lib
+[1.817s] running install_data
+[1.817s] running install_egg_info
+[1.818s] removing '/home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak-0.0.0-py3.10.egg-info' (and everything under it)
+[1.818s] Copying ../../../../build/handeye_ak/handeye_ak.egg-info to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak-0.0.0-py3.10.egg-info
+[1.819s] running install_scripts
+[1.839s] Installing aruco script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[1.840s] Installing eye2hand script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[1.840s] Installing handeye script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[1.841s] Installing robot script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+[1.841s] writing list of installed files to '/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/install.log'
+[2.181s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/handeye_calibration_ros2/handeye_ak' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/handeye_ak build --build-base /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/build install --record /home/harry/cmu/capstone/calibration_ws/build/handeye_ak/install.log --single-version-externally-managed install_data

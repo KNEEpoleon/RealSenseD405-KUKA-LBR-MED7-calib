@@ -1,0 +1,45 @@
+[1.525s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/camera_calibration': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/camera_calibration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build
+[1.848s] running develop
+[2.101s] Removing /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera-calibration.egg-link (link to .)
+[2.178s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/camera_calibration' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/camera_calibration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build
+[2.179s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/handeye_calibration_ros2/camera_calibration': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/camera_calibration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/camera_calibration build --build-base /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build install --record /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/install.log --single-version-externally-managed install_data --force
+[2.470s] running egg_info
+[2.470s] writing ../../../../build/camera_calibration/camera_calibration.egg-info/PKG-INFO
+[2.471s] writing dependency_links to ../../../../build/camera_calibration/camera_calibration.egg-info/dependency_links.txt
+[2.471s] writing entry points to ../../../../build/camera_calibration/camera_calibration.egg-info/entry_points.txt
+[2.471s] writing requirements to ../../../../build/camera_calibration/camera_calibration.egg-info/requires.txt
+[2.471s] writing top-level names to ../../../../build/camera_calibration/camera_calibration.egg-info/top_level.txt
+[2.473s] reading manifest file '../../../../build/camera_calibration/camera_calibration.egg-info/SOURCES.txt'
+[2.473s] adding license file 'LICENSE'
+[2.473s] writing manifest file '../../../../build/camera_calibration/camera_calibration.egg-info/SOURCES.txt'
+[2.474s] running build
+[2.474s] running build_py
+[2.474s] creating /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build
+[2.474s] creating /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib
+[2.474s] creating /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration
+[2.474s] copying camera_calibration/__init__.py -> /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration
+[2.475s] copying camera_calibration/test.py -> /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration
+[2.475s] copying camera_calibration/camera_calibration.py -> /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration
+[2.475s] copying camera_calibration/camera_color_viewer_realsense.py -> /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration
+[2.475s] copying camera_calibration/camera_viewer_azure_kinect.py -> /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration
+[2.475s] running install
+[2.475s] running install_lib
+[2.476s] creating /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration
+[2.476s] copying /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration/__init__.py -> /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration
+[2.476s] copying /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration/test.py -> /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration
+[2.476s] copying /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration/camera_calibration.py -> /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration
+[2.476s] copying /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration/camera_color_viewer_realsense.py -> /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration
+[2.476s] copying /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build/lib/camera_calibration/camera_viewer_azure_kinect.py -> /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration
+[2.477s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration/__init__.py to __init__.cpython-310.pyc
+[2.477s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration/test.py to test.cpython-310.pyc
+[2.477s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration/camera_calibration.py to camera_calibration.cpython-310.pyc
+[2.477s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration/camera_color_viewer_realsense.py to camera_color_viewer_realsense.cpython-310.pyc
+[2.479s] byte-compiling /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration/camera_viewer_azure_kinect.py to camera_viewer_azure_kinect.cpython-310.pyc
+[2.479s] running install_data
+[2.479s] copying resource/camera_calibration -> /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/share/ament_index/resource_index/packages
+[2.479s] copying package.xml -> /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/share/camera_calibration
+[2.479s] running install_egg_info
+[2.480s] Copying ../../../../build/camera_calibration/camera_calibration.egg-info to /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera_calibration-0.0.0-py3.10.egg-info
+[2.481s] running install_scripts
+[2.503s] writing list of installed files to '/home/harry/cmu/capstone/calibration_ws/build/camera_calibration/install.log'
+[2.571s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/handeye_calibration_ros2/camera_calibration' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/camera_calibration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/camera_calibration build --build-base /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build install --record /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/install.log --single-version-externally-managed install_data --force

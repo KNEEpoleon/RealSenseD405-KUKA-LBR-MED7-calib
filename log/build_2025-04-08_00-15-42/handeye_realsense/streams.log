@@ -1,0 +1,26 @@
+[1.539s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/handeye_calibration_ros2/handeye_realsense': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/handeye_realsense build --build-base /home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/build install --record /home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/install.log --single-version-externally-managed install_data
+[1.804s] running egg_info
+[1.805s] writing ../../../../build/handeye_realsense/handeye_realsense.egg-info/PKG-INFO
+[1.806s] writing dependency_links to ../../../../build/handeye_realsense/handeye_realsense.egg-info/dependency_links.txt
+[1.806s] writing entry points to ../../../../build/handeye_realsense/handeye_realsense.egg-info/entry_points.txt
+[1.807s] writing requirements to ../../../../build/handeye_realsense/handeye_realsense.egg-info/requires.txt
+[1.807s] writing top-level names to ../../../../build/handeye_realsense/handeye_realsense.egg-info/top_level.txt
+[1.808s] reading manifest file '../../../../build/handeye_realsense/handeye_realsense.egg-info/SOURCES.txt'
+[1.808s] adding license file 'LICENSE'
+[1.810s] writing manifest file '../../../../build/handeye_realsense/handeye_realsense.egg-info/SOURCES.txt'
+[1.810s] running build
+[1.810s] running build_py
+[1.810s] running install
+[1.811s] running install_lib
+[1.813s] running install_data
+[1.813s] running install_egg_info
+[1.815s] removing '/home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense-0.0.0-py3.10.egg-info' (and everything under it)
+[1.815s] Copying ../../../../build/handeye_realsense/handeye_realsense.egg-info to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye_realsense-0.0.0-py3.10.egg-info
+[1.816s] running install_scripts
+[1.840s] Installing aruco script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[1.841s] Installing eye2hand script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[1.841s] Installing handeye script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[1.841s] Installing joint_positions script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[1.841s] Installing robot script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+[1.841s] writing list of installed files to '/home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/install.log'
+[2.195s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/handeye_calibration_ws/src/handeye_calibration_ros2/handeye_realsense' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/handeye_realsense build --build-base /home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/build install --record /home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/install.log --single-version-externally-managed install_data

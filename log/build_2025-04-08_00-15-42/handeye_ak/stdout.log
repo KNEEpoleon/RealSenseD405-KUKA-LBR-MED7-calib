@@ -1,0 +1,23 @@
+running egg_info
+writing ../../../../build/handeye_ak/handeye_ak.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/handeye_ak/handeye_ak.egg-info/dependency_links.txt
+writing entry points to ../../../../build/handeye_ak/handeye_ak.egg-info/entry_points.txt
+writing requirements to ../../../../build/handeye_ak/handeye_ak.egg-info/requires.txt
+writing top-level names to ../../../../build/handeye_ak/handeye_ak.egg-info/top_level.txt
+reading manifest file '../../../../build/handeye_ak/handeye_ak.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../../../build/handeye_ak/handeye_ak.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../../../build/handeye_ak/handeye_ak.egg-info to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/python3.10/site-packages/handeye_ak-0.0.0-py3.10.egg-info
+running install_scripts
+Installing aruco script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+Installing eye2hand script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+Installing handeye script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+Installing robot script to /home/harry/cmu/capstone/calibration_ws/install/handeye_ak/lib/handeye_ak
+writing list of installed files to '/home/harry/cmu/capstone/calibration_ws/build/handeye_ak/install.log'

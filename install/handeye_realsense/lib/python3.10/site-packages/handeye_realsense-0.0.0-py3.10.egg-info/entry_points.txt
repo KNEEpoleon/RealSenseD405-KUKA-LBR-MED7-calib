@@ -1,0 +1,7 @@
+[console_scripts]
+aruco = handeye_realsense.aruco_estimation:main
+eye2hand = handeye_realsense.publish_eye2hand:main
+handeye = handeye_realsense.handeye_estimation:main
+joint_positions = handeye_realsense.joint_positions:main
+robot = handeye_realsense.robot_state_estimation:main
+

@@ -1,0 +1,16 @@
+[1.551s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/camera_calibration': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/camera_calibration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build --no-deps symlink_data
+[1.823s] running develop
+[2.084s] running egg_info
+[2.084s] writing camera_calibration.egg-info/PKG-INFO
+[2.084s] writing dependency_links to camera_calibration.egg-info/dependency_links.txt
+[2.084s] writing entry points to camera_calibration.egg-info/entry_points.txt
+[2.085s] writing requirements to camera_calibration.egg-info/requires.txt
+[2.085s] writing top-level names to camera_calibration.egg-info/top_level.txt
+[2.086s] reading manifest file 'camera_calibration.egg-info/SOURCES.txt'
+[2.087s] writing manifest file 'camera_calibration.egg-info/SOURCES.txt'
+[2.089s] running build_ext
+[2.089s] Creating /home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages/camera-calibration.egg-link (link to .)
+[2.090s] 
+[2.090s] Installed /home/harry/cmu/capstone/calibration_ws/build/camera_calibration
+[2.090s] running symlink_data
+[2.241s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/camera_calibration' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/camera_calibration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/camera_calibration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/camera_calibration/build --no-deps symlink_data

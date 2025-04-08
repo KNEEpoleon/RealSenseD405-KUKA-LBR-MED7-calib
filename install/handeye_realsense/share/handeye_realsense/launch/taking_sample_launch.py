@@ -1,1 +1,21 @@
-/home/harry/cmu/capstone/calibration_ws/build/handeye_realsense/launch/taking_sample_launch.py
+"""
+Copyright © 2024 Shengyang Zhuang. All rights reserved.
+
+Contact: https://shengyangzhuang.github.io/
+"""
+from launch import LaunchDescription
+from launch_ros.actions import Node
+
+def generate_launch_description():
+    return LaunchDescription([
+        Node(
+            package='handeye_realsense',
+            executable='robot',
+            name='robot_state_estimation'
+        ),
+        Node(
+            package='handeye_realsense',
+            executable='aruco',
+            name='aruco_estimation'
+        ),
+    ])

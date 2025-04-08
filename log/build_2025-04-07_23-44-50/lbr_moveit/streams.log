@@ -1,0 +1,17 @@
+[1.542s] Invoking command in '/home/harry/cmu/capstone/calibration_ws/build/lbr_moveit': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/lbr_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/lbr_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/lbr_moveit/build --no-deps symlink_data
+[1.826s] running develop
+[2.081s] running egg_info
+[2.081s] writing lbr_moveit.egg-info/PKG-INFO
+[2.081s] writing dependency_links to lbr_moveit.egg-info/dependency_links.txt
+[2.081s] writing entry points to lbr_moveit.egg-info/entry_points.txt
+[2.082s] writing requirements to lbr_moveit.egg-info/requires.txt
+[2.082s] writing top-level names to lbr_moveit.egg-info/top_level.txt
+[2.084s] reading manifest file 'lbr_moveit.egg-info/SOURCES.txt'
+[2.085s] writing manifest file 'lbr_moveit.egg-info/SOURCES.txt'
+[2.086s] running build_ext
+[2.087s] Creating /home/harry/cmu/capstone/calibration_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr-moveit.egg-link (link to .)
+[2.088s] Installing forward_keyboard script to /home/harry/cmu/capstone/calibration_ws/install/lbr_moveit/lib/lbr_moveit
+[2.088s] 
+[2.088s] Installed /home/harry/cmu/capstone/calibration_ws/build/lbr_moveit
+[2.088s] running symlink_data
+[2.206s] Invoked command in '/home/harry/cmu/capstone/calibration_ws/build/lbr_moveit' returned '0': PYTHONPATH=/home/harry/cmu/capstone/calibration_ws/build/lbr_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/cmu/capstone/calibration_ws/install/lbr_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harry/cmu/capstone/calibration_ws/build/lbr_moveit/build --no-deps symlink_data

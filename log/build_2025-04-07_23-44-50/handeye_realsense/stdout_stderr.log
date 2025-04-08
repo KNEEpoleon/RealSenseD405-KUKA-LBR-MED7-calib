@@ -1,0 +1,19 @@
+running develop
+running egg_info
+writing handeye_realsense.egg-info/PKG-INFO
+writing dependency_links to handeye_realsense.egg-info/dependency_links.txt
+writing entry points to handeye_realsense.egg-info/entry_points.txt
+writing requirements to handeye_realsense.egg-info/requires.txt
+writing top-level names to handeye_realsense.egg-info/top_level.txt
+reading manifest file 'handeye_realsense.egg-info/SOURCES.txt'
+writing manifest file 'handeye_realsense.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/python3.10/site-packages/handeye-realsense.egg-link (link to .)
+Installing aruco script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+Installing eye2hand script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+Installing handeye script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+Installing joint_positions script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+Installing robot script to /home/harry/cmu/capstone/calibration_ws/install/handeye_realsense/lib/handeye_realsense
+
+Installed /home/harry/cmu/capstone/calibration_ws/build/handeye_realsense
+running symlink_data
